@@ -38,7 +38,7 @@
 
 В ходе решения она была детализирована до следующей:
 
-<img width="464" alt="image" src="https://github.com/tamoshka/Hakaton/assets/127463024/52f8fa1d-695b-48fa-b975-4271d164bbc4">
+<img width="468" alt="image" src="https://github.com/tamoshka/Hakaton/assets/127463024/5bdf10cf-a2d6-475e-834a-7000fa737dc5">
 
 [Ссылка на Google Диск](https://drive.google.com/file/d/1asFjLODZ_IIuXuLfq-LM8nW5l2W1fPx0/view?usp=drive_link)
 
