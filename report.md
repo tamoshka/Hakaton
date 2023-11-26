@@ -61,3 +61,12 @@
 
 
 ### Алгоритм работы решения
+
+Диаграма последовательности:
+
+<img width="795" alt="image" src="https://github.com/tamoshka/Hakaton/assets/127463024/4742aeca-ca92-4099-8fb9-e0376cacbce3">
+
+[Ссылка на Google Диск](https://drive.google.com/file/d/1eJpvQ0umgiPxwbYr_6bKypPpxOMaT3-q/view?usp=drive_link)
+
+
+
